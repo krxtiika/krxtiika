@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kratika-tomar-03992924b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kratika-tomar-03992924b" height="30" width="40" /></a>
 <a href="https://instagram.com/krxtiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krxtiika" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kratiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kratiika" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@kratiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kratiika" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rocskratika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rocskratika" height="30" width="40" /></a>
 </p>
 
